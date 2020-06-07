@@ -1,0 +1,17 @@
+node_modules/**/*
+uploads/*
+?uploads/.gitkeep
+Ecoleta-release/videos/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
